@@ -1,10 +1,10 @@
-Auto-Correct Jupyter Notebook
+# Auto-Correct Jupyter Notebook
 
 This Jupyter Notebook contains a simple auto-correct function implemented using the Natural Language Toolkit (NLTK) library in Python. The function aims to correct misspelled words by finding the closest matching word from the English language corpus.
 
-Getting Started
+## Getting Started
 
-Prerequisites
+### Prerequisites
 
 Before running the code, make sure you have the following prerequisites installed:
 
@@ -14,7 +14,8 @@ You can install the required NLTK library using the following command:
 
 pip install nltk
 
-Running the Notebook
+## Running the Notebook
+
 Clone this repository to your local machine or download the notebook file.
 Open the Jupyter Notebook in your preferred environment.
 Execute the code cells in the notebook to run the auto-correct function.
@@ -29,13 +30,12 @@ Auto-Correct Function: Defining the auto_correct function, which takes an input 
 
 Main Loop: Implementing a loop that repeatedly takes user input for a word and returns the corrected word using the auto_correct function. The loop continues until the user types 'exit'.
 
-Usage
+## Usage
 
 Run the Jupyter Notebook code cells.
 Enter a word when prompted. The auto-corrected word will be displayed.
 To exit the loop, type 'exit' when prompted.
 
-Contributing
+## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to create a pull request or submit an issue in this repository.
-
